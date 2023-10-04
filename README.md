@@ -2,7 +2,7 @@
 https://shreya-singh-parmar.github.io/Covid-19-Help-Desk/
 
 # Covid-19 Help Desk-Multi Page- Responsive Website
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Code by Shreya Singh.
 
 Covid-19 Help Desk is a Multi Page Responsive Website which facilitate users to do :
